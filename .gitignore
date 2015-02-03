@@ -14,6 +14,7 @@
 
 # Ignore other unneeded files.
 database.yml
+/db/schema.rb
 doc/
 *.swp
 *~

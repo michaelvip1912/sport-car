@@ -8,6 +8,7 @@ gem 'bcrypt-ruby', '3.1.2'
 gem 'faker', '1.1.2'
 gem 'will_paginate', '3.0.7'
 gem 'bootstrap-will_paginate', '0.0.9'
+gem 'nokogiri', '1.6.6.2'
 
 gem 'sass-rails', '5.0.0'
 gem 'uglifier', '2.1.1'
