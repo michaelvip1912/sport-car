@@ -11,3 +11,15 @@
 /log/*
 !/log/.keep
 /tmp
+
+# Ignore other unneeded files.
+database.yml
+doc/
+*.swp
+*~
+.project
+.DS_Store
+.idea
+.rvmrc
+.ruby-*
+.secret
