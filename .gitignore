@@ -14,13 +14,12 @@
 
 # Ignore other unneeded files.
 database.yml
-/db/schema.rb
 doc/
 *.swp
 *~
 .project
 .DS_Store
-.idea/
+.idea
 .rvmrc
 .ruby-*
 .secret
